@@ -1,2 +1,1 @@
-# PropagationRecord
-Record the propagation test.
+ Record of the propagation.
